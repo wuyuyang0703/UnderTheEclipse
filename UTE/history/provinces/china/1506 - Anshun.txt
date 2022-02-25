@@ -1,5 +1,5 @@
-owner = GUI
-controller = GUI
+owner = DNG
+controller = DNG
 add_core = CHI
 add_core = GUI
 trade_goods = tea

@@ -222,6 +222,45 @@ political_decisions = {
 	}
 	
 ###Setup Decisions
+	literacy_DNG = {
+		potential = {
+			tag = DNG
+			always = no
+		}
+
+		allow = {
+			tag = DNG
+		}
+
+		effect = {
+
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_religion = sunni
+						has_pop_religion = shiite
+						has_pop_religion = gelugpa
+					}
+				}
+				literacy = -0.15
+			}
+
+			any_pop = {
+				limit = {
+					has_pop_religion = mahayana
+				}
+				literacy = -0.05
+			}
+
+			any_pop = {
+				limit = {
+					has_pop_religion = shinto
+				}
+				literacy = 0.15
+			}
+		}
+	}
+
 	literacy_SPA = {
 		potential = {
 			tag = SPA
@@ -2296,7 +2335,7 @@ political_decisions = {
 			2491 = { add_province_modifier = { name = small_immigration_boom duration = 7300 } }	#Adelaide, AU
 			372 = { add_province_modifier = { name = sound_dues_toll duration = -1 } } #Copenhagen
 			2172 = { set_province_flag = mexico_city }
-			1616 = { set_province_flag = summer_palace }
+#			1616 = { set_province_flag = summer_palace }
 			#################Provinces Setup######################
 			
 			#################Giving Starting Money to Pops and Countries######################

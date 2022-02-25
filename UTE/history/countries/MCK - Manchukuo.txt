@@ -1,7 +1,7 @@
-capital = 1555
+capital = 1479
 primary_culture = manchu
 religion = mahayana
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

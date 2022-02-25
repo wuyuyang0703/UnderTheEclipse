@@ -50,8 +50,8 @@ upper_house = {
 	communist = 0
 }
 
-decision = QNG_setup
-decision = unciv_balance_qng
+# decision = QNG_setup
+# decision = unciv_balance_qng
 
 # Technologies
 
@@ -66,7 +66,7 @@ qing_grain = yes
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "CHI_oob.txt"
+# oob = "CHI_oob.txt"
 1861.1.1 = {
 	oob = "/1861/CHI_oob.txt"
 }

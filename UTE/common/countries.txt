@@ -5,6 +5,9 @@ REB 	= 	"countries/rebels.txt"
 
 ### NEW NATIONS MOD ###
 
+###Under The Eclipse
+DNG     ="countries/The Dong Empire.txt"
+
 ###France Mod###
 NZF		="countries/French New Zealand.txt"
 FAS		="countries/French Australia.txt"

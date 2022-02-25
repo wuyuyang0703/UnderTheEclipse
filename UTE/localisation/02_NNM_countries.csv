@@ -489,7 +489,7 @@ FIU_ADJ;Fiumani;Fiumani;Fiumani;;;;;;;;;;;x
 FIU_fascist_dictatorship;Italian Regency of Carnaro;RÇgence italienne du Carnaro;Italienische Regentschaft am Quarnero;;;;;;;;;;;x
 FIU_bourgeois_dictatorship;Italian Regency of Carnaro;RÇgence italienne du Carnaro;Italienische Regentschaft am Quarnero;;;;;;;;;;;x
 FIU_presidential_dictatorship;Italian Regency of Carnaro;RÇgence italienne du Carnaro;Italienische Regentschaft am Quarnero;;;;;;;;;;;x
-FIU_democracy;Free State of Fiume;êtat libre de Fiume;Freistaat Fiume;;;;;;;;;;;x
+FIU_democracy;Free State of Fiume;ùtat libre de Fiume;Freistaat Fiume;;;;;;;;;;;x
 FIU_liberal;Partito Liberale;Partito Liberale;Partito Liberale;;;;;;;;;;;x
 FIU_conservative;Partito Autonomo;Partito Autonomo;Partito Autonomo;;;;;;;;;;;x
 FIU_reactionary;Nazionalisti;Nazionalisti;Nazionalisti;;;;;;;;;;;x
@@ -957,10 +957,10 @@ MAR_ADJ;Marianan;Marianan;Marianan;;;;;;;;;;;;x
 MCD;Macedonia;;;;;;;;;;;;x
 MCD_ADJ;Macedonian;;;;;;;;;;;;x
 MCK;Manchuria;;;;;;;;;;;;;x
-MCK_fascist_dictatorship;Manzhouguo;Manchukuo;Manchukuo;;;;;;;;;;;x
-MCK_presidential_dictatorship;Fengtian Clique;;;;;;;;;;;;;x
+MCK_fascist_dictatorship;Manju Guren;Manchukuo;Manchukuo;;;;;;;;;;;x
+MCK_presidential_dictatorship;Manchuria;;;;;;;;;;;;;x
 MCK_ADJ;Manchu;Mandchou;Manchu;;;;;;;;;;;x
-MCK_presidential_dictatorship_ADJ;Fengtian;;;;;;;;;;;;;x
+MCK_presidential_dictatorship_ADJ;Manchurian;;;;;;;;;;;;;x
 MDR;Madeiras;;;;;;;;;;;;;x
 MDR_ADJ;Madeiran;;;;;;;;;;;;;x
 MDR_conservative;Partido Conservador;;;;;;;;;;;;;x

@@ -1,6 +1,5 @@
-owner = IMG
-controller = IMG
-add_core = CHI
+owner = MCK
+controller = MCK
 add_core = MCK
 add_core = IMG
 trade_goods = timber
