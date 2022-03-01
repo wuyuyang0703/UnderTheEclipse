@@ -1,0 +1,8 @@
+owner = DNG
+controller = DNG
+add_core = MCK
+add_core = CHI
+add_core = KOR
+trade_goods = coal
+life_rating = 32
+colonial = 2

@@ -43,7 +43,9 @@ centralization = regionalism
 colonial_policy = exploitation
 
 set_country_flag = mahayana_country
+set_country_flag = serfdom_not_abolished
 decision = literacy_DNG
+decision = renaming_act_lushun
 
 ruling_party = DNG_conservative
 upper_house = {

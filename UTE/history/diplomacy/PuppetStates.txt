@@ -630,14 +630,6 @@ substate = {
 	end_date = 1937.1.1
 }
 
-#Dong/Korea
-vassal = {
-	first = DNG
-	second = KOR
-	start_date = 1636.1.1
-	end_date = 1876.1.1
-}
-
 #Dong/Lanfang
 vassal = {
 	first = DNG

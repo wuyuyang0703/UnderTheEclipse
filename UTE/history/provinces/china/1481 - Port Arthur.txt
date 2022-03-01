@@ -1,6 +1,10 @@
-owner = MCK
-controller = MCK
+owner = DNG
+controller = DNG
 add_core = MCK
+add_core = CHI
+add_core = KOR
 trade_goods = timber
 life_rating = 32
 terrain = portarthur
+colonial = 2
+naval_base = 1

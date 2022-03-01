@@ -697,127 +697,127 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 1500
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1000
+		size = 500
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 750
+		size = 375
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 1250
+		size = 625
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 5000
+		size = 2500
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 13000
+		size = 6500
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 56750
+		size = 28375
 	}
 
 	aristocrats = {
 		culture = korean
 		religion = mahayana
-		size = 150
+		size = 75
 	}
 
 	clergymen = {
 		culture = korean
 		religion = mahayana
-		size = 120
+		size = 60
 	}
 
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 200
+		size = 100
 	}
 
 	soldiers = {
 		culture = korean
 		religion = mahayana
-		size = 200
+		size = 100
 	}
 
 	farmers = {
 		culture = korean
 		religion = mahayana
-		size = 10700
+		size = 5350
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
-		size = 1600
+		size = 800
 	}
 
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 1025
+		size = 510
 	}
 	
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 135
+		size = 63
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 225
+		size = 110
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 8600
+		size = 4300
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1325
+		size = 663
 	}
 	
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 65100
+		size = 32550
 	}
 
-	slaves = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
-		size = 29125
+		size = 15000
 	}
 
-	slaves = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
-		size = 2225
+		size = 1113
 	}
 }
 #Jinzhou (680000/170000 POPS)
@@ -876,10 +876,72 @@
 		size = 122750
 	}
 
-	slaves = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 10720
+	}
+}
+#Fushun
+3275 = {
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 1000
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 600
+	}
+
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 600
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 54100
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 400
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 200
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 200
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 34200
 	}
 }
 #Port Arthur (80000/15000 POPS)
@@ -1992,7 +2054,7 @@
 		size = 98350
 	}
 	
-	slaves = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 25000
@@ -2461,7 +2523,7 @@
 		size = 9000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 80000
@@ -3258,13 +3320,13 @@
 		size = 5700
 	}
 	
-	slaves = {
+	serfs = {
 		culture = ovimbundu
 		religion = animist
 		size = 250
 	}
 	
-	slaves = {
+	serfs = {
 		culture = hakka
 		religion = mahayana
 		size = 200
@@ -4192,7 +4254,7 @@
 		size = 400000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 60000
@@ -5640,7 +5702,7 @@
 		size = 400000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = nanfaren
 		religion = mahayana
 		size = 60000
@@ -6473,7 +6535,7 @@
 		size = 70650
 	}
 
-	slaves = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 10875
@@ -6764,7 +6826,7 @@
 		size = 184325
 	}
 	
-	slaves = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 84325
@@ -8153,7 +8215,7 @@
 		size = 400000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = nanfaren
 		religion = mahayana
 		size = 80000
@@ -8515,7 +8577,7 @@
 		size = 70000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 10000
@@ -8677,7 +8739,7 @@
 		size = 20000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 3000
@@ -8696,7 +8758,7 @@
 		size = 400
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 5600
@@ -9161,7 +9223,7 @@
 		size = 400
 	}
 
-	slaves = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 28600
@@ -9917,7 +9979,7 @@
 		size = 400000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 30000
@@ -11044,7 +11106,7 @@
 		size = 150000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = yi
 		religion = animist
 		size = 60000
@@ -12610,7 +12672,7 @@
 		size = 100000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = nanfaren
 		religion = mahayana
 		size = 30000
@@ -12813,7 +12875,7 @@
 		size = 65025
 	}
 	
-	slaves = {
+	serfs = {
 		culture = nanfaren
 		religion = mahayana
 		size = 50000
@@ -13264,7 +13326,7 @@
 		size = 380000
 	}
 	
-	slaves = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 20000

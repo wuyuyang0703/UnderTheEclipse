@@ -257,6 +257,7 @@ political_decisions = {
 			owns = 1481
 			OR = {
 				AND = {
+					NOT = { tag = DNG }
 					NOT = { has_global_flag = lushun }
 					OR = {
 						is_culture_group = east_asian

@@ -1,6 +1,5 @@
-owner = SAT
-controller = SAT
-add_core = SAT
+owner = DNG
+controller = DNG
 add_core = RYU
 trade_goods = iron
 life_rating = 35

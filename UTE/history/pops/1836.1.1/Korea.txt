@@ -50,7 +50,7 @@
 		size = 232125
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 24900
@@ -100,7 +100,7 @@
 		size = 223625
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 25000
@@ -152,7 +152,7 @@
 		size = 143300
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 11000
@@ -190,7 +190,7 @@
 		size = 152600
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 17000
@@ -228,7 +228,7 @@
 		size = 154625
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 12000
@@ -304,7 +304,7 @@
 		size = 249725
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 11625
@@ -348,7 +348,7 @@
 		size = 139150
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 4000
@@ -392,7 +392,7 @@
 		size = 144625
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 18000
@@ -448,7 +448,7 @@
 		size = 147625
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 10000
@@ -498,7 +498,7 @@
 		size = 179625
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 10000
@@ -550,7 +550,7 @@
 		size = 106800
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 10000
@@ -600,7 +600,7 @@
 		size = 152625
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 10000
@@ -644,7 +644,7 @@
 		size = 137175
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 9000
@@ -708,7 +708,7 @@
 		size = 188150
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 47000
@@ -752,7 +752,7 @@
 		size = 101050
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 29500
@@ -790,7 +790,7 @@
 		size = 186050
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 50000
@@ -854,7 +854,7 @@
 		size = 186300
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 23200
@@ -903,7 +903,7 @@
 		size = 177625
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 17000
@@ -941,7 +941,7 @@
 		size = 53725
 	}
 
-	slaves = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 9800

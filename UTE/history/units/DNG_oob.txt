@@ -41,615 +41,27 @@ MGL = {
 }
 
 army = {
-	name = "1st Guard"
-	location = 1612
+	name = "The Imperial Guards"
+	location = 2221
 	regiment = {
-		name= "1.Guard"
+		name = "1st Guard"
 		type = guard
-		home = 1612
-	}
-
-	regiment = {
-		name= "2.Guard"
-		type = guard
-		home = 1612
-	}
-
-	regiment = {
-		name= "3.Guard"
-		type = guard
-		home = 1612
-	}
-}
-
-
-
-army = {
-	name = "1st Army"
-	location = 1612
-
-	regiment = {
-		name= "1.Infantry"
-		type = infantry
-		home = 1616
-	}
-
-	regiment = {
-		name= "2.Infantry"
-		type = infantry
-		home = 1616
-	}
-
-	regiment = {
-		name= "3.Infantry"
-		type = infantry
-		home = 1616
-	}
-}
-
-army = {
-	name = "Army of The Steppe"
-	location = 1612
-
-	regiment = {
-		name= "1.Tatar Cavalry"
-		type = hussar
-		home = 1488
-	}
-
-	regiment = {
-		name= "2.Tatar Cavalry"
-		type = hussar
-		home = 1490
-	}
-
-	regiment = {
-		name= "3.Tatar Cavalry"
-		type = hussar
-		home = 1532
-	}
-
-	regiment = {
-		name= "4.Tatar Cavalry"
-		type = hussar
-		home = 1535
-	}
-
-	regiment = {
-		name= "5.Tatar Cavalry"
-		type = hussar
-		home = 1534
-	}
-
-}
-
-army = {
-	name = "1st Division"
-	location = 1575
-	regiment = {
-		name= "1st Army"
-		type = infantry
-		home = 1470
-	}
-
-	regiment = {
-		name= "2nd Army"
-		type = infantry
-		home = 1510
-	}
-
-	regiment = {
-		name= "3rd Army"
-		type = infantry
-		home = 1547
-	}
-	
-	regiment = {
-		name= "4th Army"
-		type = infantry
-		home = 1471
-	}
-
-	regiment = {
-		name= "5th Army"
-		type = infantry
-		home = 1511
-	}
-
-	regiment = {
-		name= "6th Army"
-		type = infantry
-		home = 1548
-	}
-	
-		regiment = {
-		name= "7th Army"
-		type = infantry
-		home = 1472
-	}
-
-	regiment = {
-		name= "8th Army"
-		type = infantry
-		home = 1512
-	}
-
-	regiment = {
-		name= "9th Army"
-		type = infantry
-		home = 1549
-	}
-}
-
-army = {
-	name = "2nd Division"
-	location = 1583
-	
-	regiment = {
-		name= "10th Army"
-		type = infantry
-		home = 1473
-	}
-
-	regiment = {
-		name= "11th Army"
-		type = infantry
-		home = 1513
-	}
-
-	regiment = {
-		name= "12th Army"
-		type = infantry
-		home = 1550
-	}
-	
-	regiment = {
-		name= "13th Army"
-		type = infantry
-		home = 1474
-	}
-
-	regiment = {
-		name= "14th Army"
-		type = infantry
-		home = 1514
-	}
-
-	regiment = {
-		name= "15th Army"
-		type = infantry
-		home = 1551
-	}
-	
-	regiment = {
-		name= "16th Army"
-		type = infantry
-		home = 1475
-	}
-
-	regiment = {
-		name= "17th Army"
-		type = infantry
-		home = 1515
-	}
-
-	regiment = {
-		name= "18th Army"
-		type = infantry
-		home = 1559
-	}
-}
-
-army = {
-	name = "3rd Division"
-	location = 1525
-
-	regiment = {
-		name= "19th Army"
-		type = infantry
-		home = 1476
-	}
-
-	regiment = {
-		name= "20th Army"
-		type = infantry
-		home = 1516
-	}
-
-	regiment = {
-		name= "21st Army"
-		type = infantry
-		home = 1561
-	}
-	
-	regiment = {
-		name= "22nd Army"
-		type = infantry
-		home = 1477
-	}
-
-	regiment = {
-		name= "23rd Army"
-		type = infantry
-		home = 1517
-	}
-
-	regiment = {
-		name= "24th Army"
-		type = infantry
-		home = 1562
-	}
-
-	regiment = {
-		name= "25th Army"
-		type = infantry
-		home = 1478
-	}
-
-	regiment = {
-		name= "26th Army"
-		type = infantry
-		home = 1518
-	}
-
-	regiment = {
-		name= "27th Army"
-		type = infantry
-		home = 2062
-	}
-}
-
-army = {
-	name = "4th Division"
-	location = 1576
-
-	regiment = {
-		name= "28th Army"
-		type = infantry
-		home = 1482
-	}
-
-	regiment = {
-		name= "29th Army"
-		type = infantry
-		home = 1519
-	}
-
-	regiment = {
-		name= "30th Army"
-		type = infantry
-		home = 1563
-	}
-
-	regiment = {
-		name= "31st Army"
-		type = infantry
-		home = 1483
-	}
-
-	regiment = {
-		name= "32nd Army"
-		type = infantry
-		home = 1520
-	}
-
-	regiment = {
-		name= "33rd. Army"
-		type = infantry
-		home = 1564
-	}
-
-	regiment = {
-		name= "34th Army"
-		type = infantry
-		home = 1484
-	}
-
-	regiment = {
-		name= "35th Army"
-		type = infantry
-		home = 1521
-	}
-
-	regiment = {
-		name= "36th Army"
-		type = infantry
-		home = 1565
-	}	
-}
-
-army = {
-	name = "5th Division"
-	location = 1602
-	regiment = {
-		name= "37th Army"
-		type = infantry
-		home = 1486
-	}
-
-	regiment = {
-		name= "38th Army"
-		type = infantry
-		home = 1522
-	}
-
-	regiment = {
-		name= "39th Army"
-		type = infantry
-		home = 1567
-	}
-
-	regiment = {
-		name= "40th Army"
-		type = infantry
-		home = 1487
-	}
-
-	regiment = {
-		name= "41st Army"
-		type = infantry
-		home = 1523
-	}
-
-	regiment = {
-		name= "42nd Army"
-		type = infantry
-		home = 1568
-	}
-
-	regiment = {
-		name= "43rd Army"
-		type = infantry
-		home = 1488
-	}
-
-	regiment = {
-		name= "44th Army"
-		type = infantry
-		home = 1524
-	}
-
-	regiment = {
-		name= "45th Army"
-		type = infantry
-		home = 1570
-	}
-
-}
-
-army = {
-	name = "6th Division"
-	location = 1502
-	regiment = {
-		name= "46th Army"
-		type = infantry
-		home = 1489
-	}
-
-	regiment = {
-		name= "47th Army"
-		type = infantry
-		home = 1525
-	}
-
-	regiment = {
-		name= "48th Army"
-		type = infantry
-		home = 1571
-	}
-
-	regiment = {
-		name= "49th Army"
-		type = infantry
-		home = 1490
-	}
-
-	regiment = {
-		name= "50th Army"
-		type = infantry
-		home = 1526
-	}
-
-	regiment = {
-		name= "51st Army"
-		type = infantry
-		home = 1572
-	}
-
-	regiment = {
-		name= "52nd Army"
-		type = infantry
-		home = 1493
-	}
-
-	regiment = {
-		name= "53rd Army"
-		type = infantry
-		home = 1527
-	}
-
-	regiment = {
-		name= "54th Army"
-		type = infantry
-		home = 1573
-	}
-
-}
-
-army = {
-	name = "7th Division"
-	location = 1487
-	regiment = {
-		name= "55th Army"
-		type = infantry
-		home = 1494
-	}
-
-	regiment = {
-		name= "56th Army"
-		type = infantry
-		home = 1528
-	}
-
-	regiment = {
-		name= "57th Army"
-		type = infantry
-		home = 1574
-	}
-
-	regiment = {
-		name= "58th Army"
-		type = infantry
-		home = 1614
-	}
-
-	regiment = {
-		name= "59th Army"
-		type = infantry
-		home = 1529
-	}
-
-	regiment = {
-		name= "60th Army"
-		type = infantry
-		home = 1575
-	}
-
-	regiment = {
-		name= "61st Army"
-		type = infantry
-		home = 1497
-	}
-
-	regiment = {
-		name= "62nd Army"
-		type = infantry
-		home = 1530
-	}
-
-	regiment = {
-		name= "63rd Army"
-		type = infantry
-		home = 1577
-	}
-
-}
-
-army = {
-	name = "8th Division"
-	location = 1482
-
-	regiment = {
-		name= "64th Army"
-		type = infantry
-		home = 1499
-	}
-
-	regiment = {
-		name= "65th Army"
-		type = infantry
-		home = 1536
-	}
-
-	regiment = {
-		name= "66th Army"
-		type = infantry
-		home = 1578
-	}
-
-	regiment = {
-		name= "67th Army"
-		type = infantry
-		home = 1615
-	}
-
-	regiment = {
-		name= "68th Army"
-		type = infantry
 		home = 2221
 	}
-
 	regiment = {
-		name= "69th Army"
-		type = infantry
-		home = 1579
+		name = "2nd Guard"
+		type = guard
+		home = 2221
 	}
-
 	regiment = {
-		name= "70th Army"
-		type = infantry
-		home = 1501
+		name = "3rd Guard"
+		type = hussar
+		home = 1491
 	}
-
 	regiment = {
-		name= "71st Army"
-		type = infantry
-		home = 1537
-	}
-
-	regiment = {
-		name= "72nd Army"
-		type = infantry
-		home = 1580
-	}
-}
-
-army = {
-	name = "9th Division"
-	location = 1536
-
-	regiment = {
-		name= "73rd Army"
-		type = infantry
-		home = 1616
-	}
-
-	regiment = {
-		name= "74th Army"
-		type = infantry
-		home = 1539
-	}
-
-	regiment = {
-		name= "75th Army"
-		type = infantry
-		home = 1581
-	}
-
-	regiment = {
-		name= "76th Army"
-		type = infantry
-		home = 1617
-	}
-
-	regiment = {
-		name= "77th Army"
-		type = infantry
-		home = 1540
-	}
-
-	regiment = {
-		name= "78th Army"
-		type = infantry
-		home = 1582
-	}
-
-	regiment = {
-		name= "79th Army"
-		type = infantry
-		home = 1618
-	}
-
-	regiment = {
-		name= "80th Army"
-		type = infantry
-		home = 1541
-	}
-
-	regiment = {
-		name= "81st Army"
-		type = infantry
-		home = 1583
+		name = "4th Guard"
+		type = hussar
+		home = 1492
 	}
 }
 
@@ -763,15 +175,6 @@ leader = {
 }
 
 leader = {
-	name = "Daoguang Emperor"
-	picture = asian_general_3
-	date = 1820.1.1
-	type = land
-	personality = inefficient
-	background = aristocrat
-}
-
-leader = {
 	name = "Qishan"
 	date = 1830.1.1
 	type = land
@@ -801,4 +204,74 @@ leader = {
 	type = land
 	personality = brash
 	background = school_of_offense
+}
+
+leader = {
+	name = "Saigo Takamori"
+	type = land
+	date = 1836.1.1
+	personality = inspiring
+	background = gifted_administrator
+}
+
+leader = {
+	name = "Tokugawa Nariaki"
+	date = 1836.1.1
+	type = land
+	personality = disciplined
+	background = old_school
+	prestige = 0.1
+}
+
+leader = {
+	name = "Sakuma Shozan"
+	date = 1836.1.1
+	type = land
+	personality = clever
+	background = politician
+	prestige = 0.1
+}
+
+leader = {
+	name = "Takashima Shuhan"
+	date = 1836.1.1
+	type = land
+	personality = defiant
+	background = innovative_tactician
+	prestige = 0.1
+}
+
+leader = {
+	name = "Watanabe Kazan"
+	date = 1836.1.1
+	type = land
+	personality = strange
+	background = aristocrat
+	prestige = 0.1
+}
+
+leader = {
+	name = "Takano Choei"
+	date = 1836.1.1
+	type = land
+	personality = bold
+	background = aristocrat
+	prestige = 0.1
+}
+
+leader = {
+	name = "Prince Fushimi Kuniie"
+	date = 1836.1.1
+	type = land
+	personality = efficient
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "Prince Fushimi Sadanori"
+	date = 1836.1.1
+	type = land
+	personality = spirited
+	background = rising_star
 }

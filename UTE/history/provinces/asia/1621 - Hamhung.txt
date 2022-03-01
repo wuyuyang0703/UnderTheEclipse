@@ -1,5 +1,5 @@
-owner = KOR
-controller = KOR
+owner = DNG
+controller = DNG
 add_core = KOR
 trade_goods = iron
 life_rating = 31

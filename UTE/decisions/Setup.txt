@@ -658,7 +658,6 @@ political_decisions = {
 		}
 		
 		effect = {
-			1498 = { add_province_modifier = { name = colonial_exploitation duration = 7300 } }
 			relation = { who = ZUL value = 400 }
 			relation = { who = XHO value = 400 }
 			relation = { who = SUA value = 400 }
@@ -2738,8 +2737,7 @@ political_decisions = {
 			}
 			
 			#################Government Flags Setup######################
-						
-			QNG = { add_country_modifier = { name = corrupt_army duration = 10950 } }
+
 			ENT = { add_country_modifier = { name = caudillo_leaders duration = 7300 } }
 			CRT = { add_country_modifier = { name = caudillo_leaders duration = 1825 } }
 			HAI = { add_country_modifier = { name = divided_society duration = 10950 } }
@@ -2750,35 +2748,6 @@ political_decisions = {
 			}
 
 			MEX = { add_country_modifier = { name = fight_the_power duration = 3650 } }
-			
-			1493 = { 
-				add_province_modifier = {
-					name = canton_system
-					duration = -1
-				}	
-				add_province_modifier = {
-					name = "foreign_smugglers"
-					duration = -1
-				}
-				add_province_modifier = {
-					name = local_opium_habit
-					duration = -1
-				}
-			}
-			QNG = {
-				any_owned = {
-					limit = {
-						OR = { 
-							state_id = 1493
-							state_id = 1482
-						}
-					}
-					add_province_modifier = {
-						name = local_opium_habit
-						duration = -1
-					}
-				}
-			}
 		}
 	}
 	

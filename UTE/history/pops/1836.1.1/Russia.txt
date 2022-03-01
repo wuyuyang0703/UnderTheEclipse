@@ -9850,7 +9850,7 @@
 		size = 5
 	}
 
-	slaves = {
+	serfs = {
 		culture = russian
 		religion = orthodox
 		size = 460
@@ -9880,7 +9880,7 @@
 		size = 10
 	}
 
-	slaves = {
+	serfs = {
 		culture = siberian
 		religion = animist
 		size = 925
@@ -9942,7 +9942,7 @@
 		size = 10
 	}
 
-	slaves = {
+	serfs = {
 		culture = siberian
 		religion = animist
 		size = 925
@@ -10012,7 +10012,7 @@
 		size = 130
 	}
 
-	slaves = {
+	serfs = {
 		culture = siberian
 		religion = animist
 		size = 325
@@ -10051,7 +10051,7 @@
 		size = 125
 	}
 
-	slaves = {
+	serfs = {
 		culture = siberian
 		religion = animist
 		size = 500
@@ -10090,7 +10090,7 @@
 		size = 200
 	}
 
-	slaves = {
+	serfs = {
 		culture = siberian
 		religion = animist
 		size = 800
@@ -10129,7 +10129,7 @@
 		size = 200
 	}
 
-	slaves = {
+	serfs = {
 		culture = siberian
 		religion = animist
 		size = 925

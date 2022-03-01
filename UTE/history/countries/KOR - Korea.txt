@@ -70,7 +70,7 @@ nonstate_consciousness = 0
 #bottling_process = yes
 modern_winemaking = yes
 
-oob = "KOR_oob.txt"
+# oob = "KOR_oob.txt"
 1861.1.1 = {
 	oob = "/1861/KOR_oob.txt"
 	literacy = 0.09
